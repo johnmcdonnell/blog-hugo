@@ -1,3 +1,43 @@
-baseURL = 'https://example.org/'
+baseURL = '/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Causal Deference"
+theme = 'etch'
+features = ["disqus", "responsive", "google analytics"]
+
+[Params]
+    mainSections = ["posts"]
+    intro = true
+    headline = "My headline"
+    description = "My description"
+    github = "https://github.com/XXX"
+    twitter = "https://twitter.com/johnvmcdonnell"
+    email = "john.v.mcdonnell@gmail.com"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Jan 2, 2006"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 20
+
+
+
+[author]
+    name = "John McDonnell"
+    homepage = "https://jvmcdonnell.com"
+    github = "https://github.com/mrmierzejewski"
+
+[Permalinks]
+    post = "/:filename/"
+
