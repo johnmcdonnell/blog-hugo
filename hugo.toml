@@ -7,9 +7,7 @@ features = ["disqus", "responsive", "google analytics"]
 [Params]
     mainSections = ["posts"]
     intro = true
-    headline = "My headline"
-    description = "My description"
-    github = "https://github.com/XXX"
+    github = "https://github.com/johnmcdonnell"
     twitter = "https://twitter.com/johnvmcdonnell"
     email = "john.v.mcdonnell@gmail.com"
     opengraph = true
@@ -36,7 +34,8 @@ features = ["disqus", "responsive", "google analytics"]
 [author]
     name = "John McDonnell"
     homepage = "https://jvmcdonnell.com"
-    github = "https://github.com/mrmierzejewski"
+    github = "https://github.com/johnmcdonnell"
+    twitter = "https://twitter.com/johnvmcdonnell"
 
 [Permalinks]
     post = "/:filename/"
