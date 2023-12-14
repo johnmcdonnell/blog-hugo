@@ -2,9 +2,14 @@ baseURL = '/'
 languageCode = 'en-us'
 title = "Causal Deference"
 theme = 'etch'
-features = ["disqus", "responsive", "google analytics"]
+features = ["responsive", "google analytics"]
 
-[Params]
+[outputs]
+    posts = ['html', 'rss']
+
+[params]
+    [params.author]
+        name = "John McDonnell"
     mainSections = ["posts"]
     intro = true
     github = "https://github.com/johnmcdonnell"
@@ -33,6 +38,7 @@ features = ["disqus", "responsive", "google analytics"]
 
 [author]
     name = "John McDonnell"
+    email = "john.v.mcdonnell+hugoblog@gmail.com"
     homepage = "https://jvmcdonnell.com"
     github = "https://github.com/johnmcdonnell"
     twitter = "https://twitter.com/johnvmcdonnell"
