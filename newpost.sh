@@ -8,4 +8,4 @@ fi
 
 POSTNAME=$(date +'%Y-%m-%d')_$1.md
 echo Creating $POSTNAME
-hugo new posts/$POSTNAME
+hugo new content "posts/$POSTNAME"
