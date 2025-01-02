@@ -8,7 +8,9 @@
             </li>
             {{- end }}
 	    <li>
-                <a href="{{ .Site.RSSLink }}">RSS</a>
+                {{ with .OutputFormats.Get "RSS" }}
+	             <a href="{{ .RelPermalink }}">RSS</a>
+	        {{ end }}
 	    </li>
         </ul>
     </nav>
