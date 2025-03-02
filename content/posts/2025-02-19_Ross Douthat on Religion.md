@@ -79,12 +79,29 @@ Here I give my gut reaction,
 
 # Epistemics: How we can know stuff about religion.
 
+I'm unusual in that I don't consider any of the religions "correct."
+If there is a God, God is a very strange thing that is far from our human ability to understand.
+So if we presume that the Christian idea of the trinity is "correct", we have to admit that we as humans don't actually understand it, and so our conception will never be "correct."
+Rather, we can have an understanding that is "better" than it otherwise would be.
+
+Flavors of epistemics
+
+1. Converging evidence
+
+
+
 I think of "God" as a frame for answering unanswered question #1: Why is there something instead of nothing?
 If you think there's no God, you have to think some other weird thing like "stuff just exists on its own."
-I might say, okay well there's some ordering principle by which stuff exists on its own. So let's name that ordering principle "God."
+I might say, okay well there's some ordering principle by which stuff exists on its own.
+So let's name that ordering principle "God," without presuming any particular characteristics about it.
 Now we can ask questions about what this God thing is.
 
 For one thing, this "God" thing shows a bizarre level of favoritism towards life in general and humans in particular.
 The arbitrary physical constants are very specifically tuned to the values necessary to support life.
-And on Earth there 
+And on Earth billions of years of evolution led to a situation where human beings rule the planet,
+with no natural predators other than [one specific Nile crocodile](https://en.wikipedia.org/wiki/Gustave_(crocodile)).
+So God likes us in some way. Theories of God that say he hates life in general or humans in particular can be safely excluded,
+although we can't rule out that we are a stepping stone to something else He likes even more.
+
+
 
