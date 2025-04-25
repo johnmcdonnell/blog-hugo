@@ -5,51 +5,92 @@ draft = true
 +++
 
 
-# Ross Douthat on Religion
+# Why be Religious?
 
-Disclaimer: I am Catholic. But a very weird one, as you will see.
+Epistemic status: Divine Revelation
+Disclaimer: I am Catholic.
 
-Ross Douthat recently did a Conversation with Tyler ([here](https://conversationswithtyler.com/episodes/ross-douthat-3/)) where he tries to convince Tyler to take religion more seriously.
+Ross Douthat recently did a Conversation with Tyler
+([here](https://conversationswithtyler.com/episodes/ross-douthat-3/)) where he
+tries to convince Tyler to take religion more seriously.
 Vainly, I felt like I could maybe do a better job than Ross at making the case.
 
 ## First of all, framing: What is religion?
-Religion is the OS of your mind. Know what makes eg Catholicism religious more than believing simulation theory is how much it affects your behavior & subjective experience.
-Everyone has a religion in this sense, even if they don't call it that. If you're a firm atheist, that actually behaves like a religion in a lot of ways.
-See for example, Joe Carlsmith on the implications of Yudkowsky's "even deeper" atheism [here](https://joecarlsmith.com/2024/01/11/an-even-deeper-atheism).
+Religion is the OS of your mind. Know what makes eg Catholicism religious more
+than believing simulation theory is how much it affects your behavior &
+subjective experience. Everyone has a religion in this sense, even if they
+don't call it that. If you're a firm atheist, why are you firm? 
+See for example, Joe Carlsmith on the implications
+of Yudkowsky's "even deeper" atheism
+[here](https://joecarlsmith.com/2024/01/11/an-even-deeper-atheism).
 
-One thing that's tricky here is that the most important thing about religion is that the OS works well in creating good outcomes, but it also often 
-comes with a lot of particular claims about the world that feel like they should determine selection. Since those claims were the main thing Ross and Tyler talked about I'll stick to that side of things,
-but I should probably write a post about the outcomes.
+A corrollary: You have an OS. You have a religion. You might just not call it that.
 
-# Material reductionism is the modern religion
+1. Certain values are important to you, and the world is a forum for action
+   where meaning is manifested. You have a sense of morality and on some level
+   you think stuff that happens matters.
+2. You have a story you tell yourself about why things are the way they are.
+   This story is a mythical view of reality making heavy use of imagery and
+   symbolism. It contains entites that did not arise from your sensory input.
+3. You have some sort of epistemology that you use to accept or reject new
+   ideas that you are exposed to.
 
-Material reductionism is the dominant religion of elite human capital in 2025. It is dominant because it has been very successful
-at empowering science, which in turn enables a lot of technology and so-called "data-driven" decision making and professional practices.
-It is excellent at answering many types of questions about the phsyical world that we all have shared access to.
-It is the thing that makes Tyler feel that he is grounded and Douthat is ungrounded and slightly nutty.
+These don't have to be formal, internally consistent, or static from day to
+day. These are just things that human minds do. Analytic approaches to e.g.
+morality try to "do math" on values, and I'm not necessarily against that, but
+most people don't do math they just have values and moral intuitions.
 
-## The three unanswered questions
-Unfortunately, there are three questions that material reductionism is not good at answering:
+Your religion could make you happy or miserable, and cause you to make others
+happy or miserable. It matters.
+
+This is magnified by the social context: A large group of people with a
+particular religious configuration could make themselves very happy or
+miserable, and could make the world happy or miserable. Some religious
+configurations might work much better or worse in the context of a group.
+
+
+# Material reductionism is the modern religion of elites
+
+Material reductionism is the dominant religion of elite human capital in 2025.
+It is dominant because it has been very successful at empowering science, which
+in turn enables a lot of technology and so-called "data-driven" decision making
+and professional practices. It is excellent at answering many types of
+questions about the phsyical world that we all have shared access to. It is the
+thing that makes Tyler feel that he is grounded and Douthat is ungrounded and
+slightly nutty.
+
+# Material reductionism is not a complete religion
+Unfortunately, material reductionism is not sufficient to be a human OS. In
+particular there are three questions that material reductionism is not good at
+answering:
 
 * Why is there something instead of nothing?
 * Why is there phenomenological experience?
 * What is moral?
 
-Unfortunately all three of these questions are important, they are not explained by material reductionism now, and they will not be explaned by it in the future.
-That doesn't make any particular religion correct, but it should make it clear that the reductionist view doesn't help when we need it most.
+Unfortunately all three of these questions are important, they are not
+explained by material reductionism now, and they will not be explaned by it in
+the future. That doesn't make any particular religion correct, but the blank
+will be filled in from somewhere.
+
+People who say they are material reductionists tend to have strong moral
+intuitions that do not follow from material reductionism.
 
 # Phenomenology is the big problem
 
-Pain matters because it causes phenomenological experience of suffering. Causing pain is morally bad only because of that.
-If it didn't cause suffering it would be no big deal.
-This means that phenomenology is central to morality.
-The phenomenological world is the world that matters morally, and the physical world does not matter, or matters only instrumentally.
+Phenomenology is central to morality.
+Pain matters because it causes phenomenological experience of suffering.
+Causing pain is morally bad only because of that.
+The phenomenological world is the world that matters morally, and the physical
+world does not matter, or matters only instrumentally.
 
-This should induce a figure-ground flip in our world view: Instead of the material world being "primary" and phenomenology is some epiphenomenon, phenomonology is the real thing that matters, and the 
-material world is more of a theoretical concept used to explain patterns in what we experience phenomenologically.
-It's the material world that's not "really" real, or it's real like the Matrix is real.
+Seeing this created a figure-ground flip in my world view: Instead of
+the material world being "primary" with phenomenology is an epiphenomenon,
+phenomonology is the real thing that matters, and the material world is more of
+a theoretical concept used to explain patterns in what we experience
+phenomenologically. It's the material world that's not "really" real, or it's
+real like the Matrix is real.
 
-Again, I can't claim that some particular religion has the correct explanation here, but materialism offers only a superficial perspective on the most important thing so we should not be satisfied with it.
 
 # Tyler's skepticism
 
@@ -82,7 +123,7 @@ Here I give my gut reaction,
 I'm unusual in that I don't consider any of the religions "correct."
 If there is a God, God is a very strange thing that is far from our human ability to understand.
 So if we presume that the Christian idea of the trinity is "correct", we have to admit that we as humans don't actually understand it, and so our conception will never be "correct."
-Rather, we can have an understanding that is "better" than it otherwise would be.
+Rather, we can have an understanding that is better than it otherwise would be.
 
 Flavors of epistemics
 
