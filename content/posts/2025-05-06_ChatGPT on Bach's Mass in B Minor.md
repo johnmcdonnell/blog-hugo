@@ -3,8 +3,6 @@ title = 'ChatGPT on Bachs Mass in B Minor'
 date = 2025-05-06T23:17:21-07:00
 +++
 
-# ChatGPT on Bach's Mass in B Minor
-
 ChatGPT is surprisingly useful or learning about and appreciating art. For the
 longest time I didn't understand the fuss about Bach's Mass in B Minor. It felt
 overlong and taking it literally as a Mass, I thought it was zany that it took
