@@ -1,5 +1,5 @@
 +++
-title = 'ChatGPT on Bach's Mass in B Minor'
+title = 'ChatGPT on Bachs Mass in B Minor'
 date = 2025-05-06T23:17:21-07:00
 +++
 
