@@ -1,7 +1,6 @@
 +++
 title = 'ChatGPT on Bach's Mass in B Minor'
 date = 2025-05-06T23:17:21-07:00
-draft = true
 +++
 
 # ChatGPT on Bach's Mass in B Minor
